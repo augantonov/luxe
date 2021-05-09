@@ -1,6 +1,6 @@
-name: 'Demo: Umami Food Magazine (Experimental)'
+name: 'Турагентство «Голден Тревел» – путёвки и горящие туры из Харькова'
 type: profile
-description: 'Install an example site that shows off some of Drupal’s capabilities.'
+description: 'Профиль для сайта «Голден Тревел»'
 # version: VERSION
 install:
   - node
