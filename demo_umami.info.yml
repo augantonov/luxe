@@ -51,6 +51,7 @@ install:
 themes:
   - seven
   - umami
+  - olivero
 keep_english: true
 
 # Information added by Drupal.org packaging script on 2021-05-05
